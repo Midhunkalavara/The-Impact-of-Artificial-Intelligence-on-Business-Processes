@@ -1,4 +1,6 @@
-# Table of Contents
+# Exploring the Influence of Artificial Intelligence on Business Operations
+
+## Table of Contents
 1. [Introduction](#introduction)
 2. [AI and Automation](#ai-and-automation)
 3. [Artificial Intelligence (AI) and Decision Making](#artificial-intelligence-ai-and-decision-making)
